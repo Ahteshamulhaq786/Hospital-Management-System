@@ -1,0 +1,15 @@
+#blah{
+    width: 180px;
+    height: 180px;
+}
+#inputFile{
+    font-size: 14px;
+    margin: 8px;
+    line-height: 2;
+}
+#btn-styled {
+    font-size: 14px;
+    margin: 8px;
+    padding: 0 16px;
+    line-height: 2;
+}

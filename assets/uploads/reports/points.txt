@@ -1,0 +1,11 @@
+Db Tables
+-Admin Login functional
+--users (type) except patients -table
+-Admin Edit Account
+-system settings
+-departments
+-doctors
+-Patients
+-Nurse
+-Pharmacist
+$this->db->escape()
